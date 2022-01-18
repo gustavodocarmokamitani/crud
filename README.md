@@ -2,6 +2,6 @@
 
 ### `Access the Project:`
 
-https://app.netlify.com/teams/gustavodocarmokamitani/sites
+https://confident-yalow-4955bc.netlify.app/
 
 --------------------------------------------------------------------------
